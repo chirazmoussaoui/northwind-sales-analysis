@@ -11,14 +11,14 @@ demonstrating SQL querying, data cleaning, and business insight generation.
 - **Notion / Excel**: final reporting
 
 ## Project Structure
-
+```
 northwind-portfolio-project/
 ├── sql/queries.sql - SQL queries used for analysis
 ├── data/ - Exported CSV results
 ├── notebooks/ - Python analysis notebooks
 ├── dashboards/ - Power BI/Tableau files
 └── README.md
-
+```
 ## Business Questions Answered
 1. Who are the top 10 customers by number of orders?
 2. Who are the top 10 customers by total revenue?
